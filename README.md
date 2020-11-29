@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available below!
 
-- 💬 Ask me about **ReactJS and Competitve Programming**
-
 - 📫 How to reach me [**vandanrogheliya**](https://www.linkedin.com/in/vandanrogheliya/)
 
 <p align="left">
