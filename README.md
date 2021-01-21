@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandanrogheliya" alt="vandanrogheliya" /> </p>
 
-- 🔭 I’m currently working on [Project-T](https://vproject-t.herokuapp.com/auth/login)
+- 🔭 I’m currently looking for internships in SDE!
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently practicing [**Competitive Programming**](https://codeforces.com/profile/VandanRogheliya)
 
 - 👨‍💻 All of my projects are available below!
 
