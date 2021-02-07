@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandanrogheliya" alt="vandanrogheliya" /> </p>
 
-- 🔭 I’m currently looking for internships in SDE!
+- 🐧 I’m currently a front-end intern at Codingal!
 
 - 🌱 I’m currently practicing [**Competitive Programming**](https://codeforces.com/profile/VandanRogheliya)
 
