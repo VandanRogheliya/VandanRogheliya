@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandanrogheliya" alt="vandanrogheliya" /> </p>
 
-- 🐧 I’m currently a front-end intern at Codingal!
+- 🐧 I’m currently a Software Engineer Intern at Codingal!
 
 - 👨‍💻 All of my projects are available below!
 
